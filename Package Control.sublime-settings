@@ -7,14 +7,19 @@
 	[
 		"A File Icon",
 		"Anaconda",
+		"ApacheConf",
+		"BracketHighlighter",
 		"Jinja2",
 		"JSON Key-Value",
 		"JSONComma",
-		"JSONLint",
 		"Package Control",
+		"PackageResourceViewer",
+		"PypiPackageInfo",
+		"ScopeHunter",
 		"SideBarEnhancements",
 		"SublimeGit",
 		"Terminal",
 		"Theme - itg.flat",
+		"Visual Studio Dark"
 	]
 }
